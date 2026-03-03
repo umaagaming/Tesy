@@ -1,5 +1,5 @@
 <div class = "repo" align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=DEW-MD-V1.0" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=UMAA-X-MD-MINI V1.0" alt="Typing SVG" /></a> 
 <a href = "#">
 <img src = "https://i.ibb.co/Jwry6gGh/DEW-MD.png"  width="900" height="450">
 </img>
